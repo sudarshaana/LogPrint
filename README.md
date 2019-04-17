@@ -23,3 +23,17 @@ allprojects {
 	        implementation 'com.github.sudarshaana:LogPrint:1.1'
 	}
   ```
+  
+The library will use __**LogPrint**__ as the output message.
+
+**How to use?**
+
+Simply add the line to user code
+```
+SLog.d("Hi from Library");
+```
+
+*Output*
+```
+LogPrint: Hi from Library
+```
