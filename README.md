@@ -20,7 +20,7 @@ allprojects {
   
  ```
  dependencies {
-	        implementation 'com.github.sudarshaana:LogPrint:1.1'
+	        implementation 'com.github.sudarshaana:LogPrint:1.2'
 	}
   ```
   
